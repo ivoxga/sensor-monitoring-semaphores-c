@@ -4,7 +4,7 @@ A multithreaded C program that simulates an environmental monitoring system. Two
 
 The focus is on **thread synchronization with semaphores**: mutual exclusion on shared circular buffers and a producer–consumer notification between sensors and controllers.
 
-> Project developed for the course **Computer Systems Architecture**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2st year**.
+> Project developed for the course **Computer Systems Architecture**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**.
 
 ---
 
