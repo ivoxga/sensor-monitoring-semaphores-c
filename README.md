@@ -6,7 +6,7 @@ The focus is on **thread synchronization with semaphores**: mutual exclusion on 
 
 > Project developed for the course **Computer Systems Architecture**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**.
 
----
+--- 
 
 ## Repository structure
 
